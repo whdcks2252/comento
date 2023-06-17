@@ -2,12 +2,14 @@
 
 Maven : version 4.0.0 : packaging war 
 JDK 11
+
 Spring: version 5.3.18
    - spring mvc 
    - lombok 1.18.12
 
 
 Maria DB : version 2.0.3
+
 Mybatis : version 3.4.4
 
 
